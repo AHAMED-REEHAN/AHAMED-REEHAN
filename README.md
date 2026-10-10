@@ -1,4 +1,5 @@
 # Hi there, I'm Ahamed Reehan 👋
+![Cybersecurity Banner](./ahamed_reehan_cybersecurity_banner.png)
 
 ### Cyber Security Student | Aspiring Cybersecurity Professional
 
